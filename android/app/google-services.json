@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "229866312091",
+    "project_id": "new--signin-b3260",
+    "storage_bucket": "new--signin-b3260.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:229866312091:android:b6b707dcda71cb4b05d13e",
+        "android_client_info": {
+          "package_name": "com.example.new_google_signin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLFEOUYXljUXj5Dpo1Ov0KUSOeTLFfO_0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
